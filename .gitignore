@@ -1,0 +1,8 @@
+# Maven build output
+backend/target/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
